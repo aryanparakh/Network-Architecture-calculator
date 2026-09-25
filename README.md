@@ -242,6 +242,3 @@ s.close()
 
 ---
 
-## Note Regarding Page 2 of the PDF
-
-The attached assignment PDF also displays a preview slide for a course project ("HTTP, IN BINARY · TWO TRACKS, ONE PROTOCOL: `./bserve` and `./bcurl`"). Per assignment instructions, that is a separate binary protocol project and is intentionally kept distinct from this HTTP/1.1 Persistent Calculator assignment.
